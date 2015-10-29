@@ -1,0 +1,23 @@
+name: Work+Flow
+favicon: null
+layout_spectrum: 0.467147096991539
+typography_spectrum: 0.9398591322824359
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9081033908296376
+  lightness: 0.8771836359519511
+  saturation: 0.6227138605900109
+  rhythmicContrast: 0.2913116740528494
+purpose: []
